@@ -179,7 +179,7 @@ type Header struct {
 ## 五、图片资源分析
 
 ### 5.1 架构设计图片
-![架构图]([[http://bafybeib3zxq25h5hcepvzkjvdrvdszfnsqfbu74lfv6lgwfidnobrxtuby.ipfs.localhost:8080/?filename=Geth%E6%9E%B6%E6%9E%84%E5%9B%BE.png]()](https://bafybeib3zxq25h5hcepvzkjvdrvdszfnsqfbu74lfv6lgwfidnobrxtuby.ipfs.dweb.link?filename=Geth%E6%9E%B6%E6%9E%84%E5%9B%BE.png))
+![架构图](https://bafybeib3zxq25h5hcepvzkjvdrvdszfnsqfbu74lfv6lgwfidnobrxtuby.ipfs.dweb.link?filename=Geth%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 ### 5.2 流程分析图片
 - **生命周期流程图.png**：展示交易或区块在Geth中的完整生命周期处理流程
